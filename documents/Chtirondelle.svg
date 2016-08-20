@@ -14,11 +14,11 @@
    height="744.09448"
    id="svg4681"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Chtirondelle.svg"
-   inkscape:export-filename="/home/nfroidure/Bureau/Chtirondelle.png"
-   inkscape:export-xdpi="42.760944"
-   inkscape:export-ydpi="42.760944">
+   inkscape:export-filename="./Chtirondelle.png"
+   inkscape:export-xdpi="365.60001"
+   inkscape:export-ydpi="365.60001">
   <defs
      id="defs3">
     <linearGradient
@@ -74,15 +74,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="440.14055"
-     inkscape:cy="507.85125"
+     inkscape:cx="603.78526"
+     inkscape:cy="427.03905"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1276"
+     inkscape:window-height="755"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4">
@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
