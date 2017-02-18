@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "chti-rondelle",
-  "homepage": "http://www.chtirondelle.com",
+  "homepage": "http://chtirondelle.com",
   "twitter": "",
   "repository": "https://github.com/nfroidure/chtirondelle.git",
   "scripts": {
@@ -102,7 +102,7 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-react-optimize": "^1.0.1",
     "babel-preset-stage-1": "^6.13.0",
-    "buildbranch": "^1.0.0",
+    "buildbranch": "^2.0.0",
     "classnames": "^2.2.5",
     "css-loader": "^0.25.0",
     "eslint": "^3.7.1",
