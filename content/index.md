@@ -16,13 +16,12 @@ Bienvenue sur le site de Ch'ti Rondelle, découvrez ma gamme de saucissons
  mes saucissons chez les meilleurs producteurs d'Auverge.
 
 Je vous propose de me retrouver sur les marchés des environs de Douai:
-* à Lallaing, le lundi matin,
-* à Waziers le mardi matin une fois par mois,
-* à Arras, le mercredi matin, place des Héros,
-* à Somain le jeudi matin, place Victor Hugo,
-* à Hénin-Beaumont le vendredi matin,
-* à Douai, le samedi matin, place Saint-Amé
-* et le dimanche, hors braderies, salons ou marchés de Noël à Corbehem, place
+* lundi : à Lallaing,
+* mercredi : à Arras, place des Héros,
+* jeudi : à Somain, place Victor Hugo,
+* vendredi : à Wavrin, place de l'église,
+* samedi : à Douai, place Saint-Amé
+* dimanche : hors braderies, salons ou marchés de Noël à Corbehem, place
  de la Mairie.
 
 Je vous propose également, autour de Douai, dans un rayon de 10km, la livraison
