@@ -25,9 +25,9 @@ Voici un aperçu de la gamme de saucissons que je propose, mais n'hésitez pas �
 
 ### Tarifs
 
-* La pièce : 3 euros.
-* Les deux saucissons : 5 euros 50.
-* Les 4 saucissons : 10 euros.
+* La pièce : 3.5 euros.
+* Les deux saucissons : 6 euros 50.
+* Les 4 saucissons : 12 euros.
 
 Pour les comités d'entreprise ou les commandes de gros, des tarifs préférenciels
  sont prévus, veuillez me consulter !
